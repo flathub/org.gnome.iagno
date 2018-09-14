@@ -7,7 +7,7 @@
     "rename-desktop-file": "iagno.desktop",
     "rename-icon": "iagno",
     "rename-appdata-file": "iagno.appdata.xml",
-    "tags": [],
+    "copy-icon": true,
     "finish-args": [
         /* X11 + XShm access */
         "--share=ipc", "--socket=x11",
@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/iagno/3.28/iagno-3.28.0.tar.xz",
-                    "sha256": "dd8082b68e22df08e43bbfd01141d5a20cf0582e45c90c4e72dce4fc76c00a8a"
+                    "url": "https://download.gnome.org/sources/iagno/3.30/iagno-3.30.0.tar.xz",
+                    "sha256": "3f34018fa9be472edf927c30694f59b09eacdba160dfbf6998e03e83c2815397"
                 }
             ]
         }
